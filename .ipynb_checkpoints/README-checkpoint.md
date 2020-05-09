@@ -10,4 +10,4 @@ You can now assign L2 regularization parameter.
 1. Add support for kernel methods
 2. Add Support for Softmax regression in Logistic Case
 3. Add support for further distributions (Gamma, Beta, Binomial, Quasi-Poisson)
-
+4. Add support for Bayesian methods
