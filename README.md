@@ -5,10 +5,19 @@ I've coded up a generalized linear model class for solving problems with respons
 
 You can now assign L2 regularization parameter.
 
+# Update 5/10 
+
+You can now use Linear Regression
+
+
+
+
+
 #   TODO
 
 1. Add support for kernel methods
 2. Add Support for Softmax regression in Logistic Case
 3. Add support for further distributions (Gamma, Beta, Binomial, Quasi-Poisson)
-4. Add support for Bayesian methods
+4. Add support for Bayesian methods  (MCMC)
 5. Implement gradient descent
+     5.a Implement Lp norm and Elastic Net
